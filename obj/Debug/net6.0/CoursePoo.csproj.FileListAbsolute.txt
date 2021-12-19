@@ -1,0 +1,15 @@
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\CoursePoo.exe
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\CoursePoo.deps.json
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\CoursePoo.runtimeconfig.json
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\CoursePoo.dll
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\ref\CoursePoo.dll
+C:\Users\ianna\CoursePoo\bin\Debug\net6.0\CoursePoo.pdb
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.csproj.AssemblyReference.cache
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.AssemblyInfoInputs.cache
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.AssemblyInfo.cs
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.csproj.CoreCompileInputs.cache
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.dll
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\ref\CoursePoo.dll
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.pdb
+C:\Users\ianna\CoursePoo\obj\Debug\net6.0\CoursePoo.genruntimeconfig.cache
