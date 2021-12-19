@@ -1,7 +1,7 @@
 # CoursePoo
  Teste fundamentos de POO
  
-## Program.cs
+# Program.cs
 Contém o método principal para inicializar o algoritmo. 
 
 #ContentContext
@@ -10,7 +10,7 @@ Contém o método principal para inicializar o algoritmo.
 #NotificationContext
  Contém classes incompletas para notificações ao usuário.
  
-##Base.cs
+#Base.cs
  Construtor de ID global
 ```Code
  using System;
@@ -31,7 +31,7 @@ Contém o método principal para inicializar o algoritmo.
      }
  }
 ```
-##ContentContext.cs
+#ContentContext.cs
  Construtor de Title e Url além de herdar atributos da Base.cs
 ```Code
  namespace CoursePoo.ContentContext
@@ -54,7 +54,7 @@ Contém o método principal para inicializar o algoritmo.
 }
 ```
 
-##Article.cs
+#Article.cs
  Construtor recebe parâmetros herdados de Content.cs
 ```Code
    
@@ -71,7 +71,7 @@ namespace CoursePoo.ContentContext
     }
 }
 ```
-##Module.cs
+#Module.cs
   Possui atributos Int Order, String Title e Lista Lectures. Construtor incializa objeto Lectures.  
 ```Code
 namespace CoursePoo.ContentContext
