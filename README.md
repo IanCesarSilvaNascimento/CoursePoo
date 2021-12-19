@@ -2,7 +2,7 @@
  Teste fundamentos de POO
  
 # Program.cs
-Contém o método principal para inicializar o algoritmo. 
+ Contém o método principal para inicializar o algoritmo. 
 
 #ContentContext
  As classes Base e Content são abstracts e não podem ser instanciadas.As demais classes formam o contexto de conteúdo: Lectures, Modules, Articles, Course, CareerItem e Career. 
