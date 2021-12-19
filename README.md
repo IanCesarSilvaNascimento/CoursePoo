@@ -4,13 +4,13 @@
 # Program.cs
  Contém o método principal para inicializar o algoritmo. 
 
-#ContentContext
+## ContentContext
  As classes Base e Content são abstracts e não podem ser instanciadas.As demais classes formam o contexto de conteúdo: Lectures, Modules, Articles, Course, CareerItem e Career. 
  
-#NotificationContext
+## NotificationContext
  Contém classes incompletas para notificações ao usuário.
  
-#Base.cs
+# Base.cs
  Construtor de ID global
 ```Code
  using System;
@@ -31,7 +31,7 @@
      }
  }
 ```
-#ContentContext.cs
+# ContentContext.cs
  Construtor de Title e Url além de herdar atributos da Base.cs
 ```Code
  namespace CoursePoo.ContentContext
@@ -54,7 +54,7 @@
 }
 ```
 
-#Article.cs
+# Article.cs
  Construtor recebe parâmetros herdados de Content.cs
 ```Code
    
@@ -71,7 +71,7 @@ namespace CoursePoo.ContentContext
     }
 }
 ```
-#Module.cs
+# Module.cs
   Possui atributos Int Order, String Title e Lista Lectures. Construtor incializa objeto Lectures.  
 ```Code
 namespace CoursePoo.ContentContext
